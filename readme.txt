@@ -16,4 +16,4 @@ Measure Estimate : Accuracy
 Including Files
 - train.csv is training dataset for train model.
 - test.csv is test dataset for test model (Doesn't have risk status).
-- solution.xlxs is a final answer for testing data.
+- solution.xlxs is a final answer for test dataset.
