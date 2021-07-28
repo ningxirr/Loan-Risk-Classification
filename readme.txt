@@ -3,10 +3,10 @@ A Machine Learning classifying algorithm in order to find the unknown loan risk 
 Attributes
 Gender : Male/Female
 Income : Applicant income (10000 - 500000)
-Education : Applicant Education Level (Bachelor, Master, Doctorate, Others)
+Education : Applicant Education Level (Bachelor/ Master/ Doctorate/ Others)
 Dependent : Number of dependents
-Marital Status : Single, Married, Divorced, Widowed, Separated
-Employment Status: Employed, Employed Part-time, Self-employed, Unemployed, Retired, Others
+Marital Status : Single/ Married/ Divorced/ Widowed/ Separated
+Employment Status: Employed/ Employed Part-time/ Self-employed/ Unemployed/ Retired/ Others
 Mortgage : Yes/No
 Resident : Urban/Semi-urban/Rural
 Credit : Credit history meets guidelines (Yes/No)
