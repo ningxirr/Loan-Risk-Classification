@@ -1,4 +1,5 @@
-a Machine Learning classifying algorithm in order to find the unknown loan risk classes.
+A Machine Learning classifying algorithm in order to find the unknown loan risk classes.
+
 Attributes
 Gender : Male/Female
 Income : Applicant income (10000 - 500000)
